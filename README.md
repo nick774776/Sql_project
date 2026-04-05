@@ -1,6 +1,6 @@
  Hospital Data Analysis (SQL)
 
-This project is part of the **30-Day SQL Micro Course** from SkillCourse.in. It involves analyzing a hospital dataset to extract key performance indicators (KPIs) regarding patient care, hospital efficiency, and financial records.
+It involves analyzing a hospital dataset to extract key performance indicators (KPIs) regarding patient care, hospital efficiency, and financial records.
 
 ## Project Overview
 The goal of this project is to demonstrate proficiency in SQL by solving real-world data queries related to healthcare management.
